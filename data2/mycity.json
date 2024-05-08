@@ -1,0 +1,32 @@
+{
+   "city":"Mysore",
+
+   "pin":1234,
+
+   "ticket":350.43,
+
+   "hasZoo":true,
+
+   "area":[
+      "Jayanagar",
+      "Vijaynagar"
+   ],
+
+   "hotel":{
+      "name":"das prakash",
+      "food":"masaladose"
+   },
+
+   "travel":[
+      {
+         "road":"car"
+      },
+      {
+         "train":"VandeBharath"
+      },
+	{
+         "flight":"Indigo"
+      }
+
+   ]
+}

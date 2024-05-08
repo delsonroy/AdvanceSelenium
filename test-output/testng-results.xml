@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[a1]]>
+    </line>
+    <line>
+      <![CDATA[Delson]]>
+    </line>
+    <line>
+      <![CDATA[Toronto]]>
+    </line>
+    <line>
+      <![CDATA[--------]]>
+    </line>
+    <line>
+      <![CDATA[a2]]>
+    </line>
+    <line>
+      <![CDATA[Bright]]>
+    </line>
+    <line>
+      <![CDATA[Kannur]]>
+    </line>
+    <line>
+      <![CDATA[--------]]>
+    </line>
+    <line>
+      <![CDATA[a3]]>
+    </line>
+    <line>
+      <![CDATA[Amelia]]>
+    </line>
+    <line>
+      <![CDATA[Kochi]]>
+    </line>
+    <line>
+      <![CDATA[--------]]>
+    </line>
+    <line>
+      <![CDATA[a3]]>
+    </line>
+    <line>
+      <![CDATA[Amelia]]>
+    </line>
+    <line>
+      <![CDATA[Kochi]]>
+    </line>
+    <line>
+      <![CDATA[--------]]>
+    </line>
+    <line>
+      <![CDATA[a4]]>
+    </line>
+    <line>
+      <![CDATA[Lian]]>
+    </line>
+    <line>
+      <![CDATA[Kochi]]>
+    </line>
+    <line>
+      <![CDATA[--------]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-05-08T15:27:59 GMT-04:00" name="Default suite" finished-at="2024-05-08T15:28:00 GMT-04:00" duration-ms="375">
+    <groups>
+    </groups>
+    <test started-at="2024-05-08T15:27:59 GMT-04:00" name="Default test" finished-at="2024-05-08T15:28:00 GMT-04:00" duration-ms="375">
+      <class name="day26db.Demo10">
+        <test-method signature="testA([Ljava.lang.String;)[pri:0, instance:day26db.Demo10@242b836]" started-at="2024-05-08T15:28:00 GMT-04:00" name="testA" data-provider="getData" finished-at="2024-05-08T15:28:00 GMT-04:00" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@4b41e4dd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[a1]]>
+            </line>
+            <line>
+              <![CDATA[Delson]]>
+            </line>
+            <line>
+              <![CDATA[Toronto]]>
+            </line>
+            <line>
+              <![CDATA[--------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method signature="testA([Ljava.lang.String;)[pri:0, instance:day26db.Demo10@242b836]" started-at="2024-05-08T15:28:00 GMT-04:00" name="testA" data-provider="getData" finished-at="2024-05-08T15:28:00 GMT-04:00" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@40844aab]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[a2]]>
+            </line>
+            <line>
+              <![CDATA[Bright]]>
+            </line>
+            <line>
+              <![CDATA[Kannur]]>
+            </line>
+            <line>
+              <![CDATA[--------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method signature="testA([Ljava.lang.String;)[pri:0, instance:day26db.Demo10@242b836]" started-at="2024-05-08T15:28:00 GMT-04:00" name="testA" data-provider="getData" finished-at="2024-05-08T15:28:00 GMT-04:00" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@42721fe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[a3]]>
+            </line>
+            <line>
+              <![CDATA[Amelia]]>
+            </line>
+            <line>
+              <![CDATA[Kochi]]>
+            </line>
+            <line>
+              <![CDATA[--------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method signature="testA([Ljava.lang.String;)[pri:0, instance:day26db.Demo10@242b836]" started-at="2024-05-08T15:28:00 GMT-04:00" name="testA" data-provider="getData" finished-at="2024-05-08T15:28:00 GMT-04:00" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@22ffa91a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[a3]]>
+            </line>
+            <line>
+              <![CDATA[Amelia]]>
+            </line>
+            <line>
+              <![CDATA[Kochi]]>
+            </line>
+            <line>
+              <![CDATA[--------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method signature="testA([Ljava.lang.String;)[pri:0, instance:day26db.Demo10@242b836]" started-at="2024-05-08T15:28:00 GMT-04:00" name="testA" data-provider="getData" finished-at="2024-05-08T15:28:00 GMT-04:00" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@74960bfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[a4]]>
+            </line>
+            <line>
+              <![CDATA[Lian]]>
+            </line>
+            <line>
+              <![CDATA[Kochi]]>
+            </line>
+            <line>
+              <![CDATA[--------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- day26db.Demo10 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

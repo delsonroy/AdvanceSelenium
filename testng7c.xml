@@ -1,0 +1,9 @@
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="day07b.DemoA"/>
+      <class name="day07b.DemoC"/>
+      <class name="day07b.DemoB"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

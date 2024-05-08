@@ -1,0 +1,9 @@
+
+<suite name="Suite">
+  <test name="Test">
+	  <parameter name ="city" value = "BNG"/>
+    <classes>
+      <class name="day01.Demo5"/>
+    </classes>
+  </test> 
+</suite>
